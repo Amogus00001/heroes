@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  background-image: url(https://cdn.culture.ru/images/509623a2-5ebe-59dc-917e-181c93dcd7c2);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+.first {
+  color: #a60000;
+  text-align: center;
+  font-size: 150px;
+  opacity: 0.4;
+}
+
+h2 {
+  text-align: center;
+  font-size: 100px;
+  color: #e6d9b2;
+}
+h1:hover {
+  opacity: 1;
+}
+
+p {
+  font-size: 90px;
+  text-align: center;
+}
+h3 {
+  font-size: 99px;
+  text-align: center;
+}
